@@ -1,0 +1,345 @@
+{
+  "slug": "accessibility-statement",
+  "title": "Accessibility Statement",
+  "description": "Accessibility Statement",
+  "isExtendedFooterEnabled": null,
+  "extendedFooterHeading": null,
+  "extendedFooterText": null,
+  "extendedFooterImage": null,
+  "extendedFooterCta": null,
+  "sections": [
+    {
+      "sys": {
+        "id": "L4vMoeKWJgRcnKwsZqa9f"
+      },
+      "__typename": "LegalContent",
+      "id": "Accessibility Statement",
+      "date": "2023-02-07T00:00:00.000Z",
+      "richTextHeading": {
+        "json": {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "Accessibility Statement",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            }
+          ],
+          "nodeType": "document"
+        },
+        "links": {
+          "entries": {
+            "inline": []
+          }
+        }
+      },
+      "content": {
+        "json": {
+          "nodeType": "document",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Figure is committed to providing a website that is accessible to the widest possible audience, regardless of technology or ability.",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "We aim to comply with all applicable standards including WCAG 2.1 accessibility standards, to level AA.",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "If you experience any difficulty in accessing any part of this website, please contact us by emailing ",
+                  "marks": [],
+                  "data": {}
+                },
+                {
+                  "nodeType": "hyperlink",
+                  "data": {
+                    "uri": "mailto:privacy@figure.ai"
+                  },
+                  "content": [
+                    {
+                      "nodeType": "text",
+                      "value": "privacy@figure.ai",
+                      "marks": [
+                        {
+                          "type": "underline"
+                        }
+                      ],
+                      "data": {}
+                    }
+                  ]
+                },
+                {
+                  "nodeType": "text",
+                  "value": ". ",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            }
+          ]
+        },
+        "links": {
+          "entries": {
+            "inline": []
+          }
+        }
+      }
+    }
+  ],
+  "footer": {
+    "socialMediaTikTok": null,
+    "id": "footer",
+    "copyrightText": "© Figure 2026.",
+    "newsletterHeading": "Keep up with us",
+    "newsletterDescription": "Get news, photos, events, and business updates.",
+    "newsletterSuccessHeading": "Let's build.",
+    "newsletterSuccessDescription": "Thanks for signing up. Stay on the lookout for major robotics & AI announcements coming soon.",
+    "logo": {
+      "contentType": "image/svg+xml",
+      "src": "https://images.ctfassets.net/qx5k8y1u9drj/3ygvPaiOiIX62OhZ7oNO2h/d50ccd3bc449eab7ae098d87aa0cd040/figure-logo.svg",
+      "width": 461,
+      "height": 69,
+      "description": "Figure Logo"
+    },
+    "socialMediaTwitter": {
+      "internalLink": null,
+      "icon": null,
+      "label": "Twitter",
+      "url": "https://twitter.com/figure_robot",
+      "fragmentAndQueryString": null,
+      "isTargetBlank": true
+    },
+    "socialMediaInstagram": {
+      "internalLink": null,
+      "icon": null,
+      "label": "Instagram",
+      "url": "https://www.instagram.com/figure_robot/",
+      "fragmentAndQueryString": null,
+      "isTargetBlank": true
+    },
+    "socialMediaLinkedIn": {
+      "internalLink": null,
+      "icon": null,
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/company/figure-ai/",
+      "fragmentAndQueryString": null,
+      "isTargetBlank": true
+    },
+    "socialMediaYoutube": {
+      "internalLink": null,
+      "icon": null,
+      "label": "Youtube",
+      "url": "https://www.youtube.com/@figureai",
+      "fragmentAndQueryString": null,
+      "isTargetBlank": true
+    },
+    "linksCollection": {
+      "items": [
+        {
+          "icon": null,
+          "label": "FIGURE 03",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "figure"
+          }
+        },
+        {
+          "icon": null,
+          "label": "COMPANY",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "company"
+          }
+        },
+        {
+          "icon": null,
+          "label": "CAREERS",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "careers"
+          }
+        },
+        {
+          "icon": null,
+          "label": "HELIX",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "helix"
+          }
+        },
+        {
+          "icon": null,
+          "label": "NEWS",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "news"
+          }
+        },
+        {
+          "icon": null,
+          "label": "CULTURE",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "culture"
+          }
+        },
+        {
+          "icon": null,
+          "label": "MASTER PLAN",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "master-plan"
+          }
+        }
+      ]
+    },
+    "secondaryLinksCollection": {
+      "items": [
+        {
+          "icon": null,
+          "label": "Terms & Conditions",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "terms-and-conditions"
+          }
+        },
+        {
+          "icon": null,
+          "label": "Privacy Policy",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "privacy-policy"
+          }
+        },
+        {
+          "icon": null,
+          "label": "Accessibility Statement",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "accessibility-statement"
+          }
+        }
+      ]
+    }
+  },
+  "navigation": {
+    "linksCollection": {
+      "items": [
+        {
+          "icon": null,
+          "label": "FIGURE 03",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "figure"
+          }
+        },
+        {
+          "icon": null,
+          "label": "HELIX",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "helix"
+          }
+        },
+        {
+          "icon": null,
+          "label": "COMPANY",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "company"
+          }
+        },
+        {
+          "icon": null,
+          "label": "NEWS",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "news"
+          }
+        },
+        {
+          "icon": null,
+          "label": "CAREERS",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "careers"
+          }
+        }
+      ]
+    }
+  }
+}

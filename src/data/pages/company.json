@@ -1,0 +1,572 @@
+{
+  "slug": "company",
+  "title": "Company | Figure",
+  "description": "Figure is the first-of-its-kind AI robotics company bringing a general purpose humanoid to life.",
+  "isExtendedFooterEnabled": true,
+  "extendedFooterHeading": "The team bringing impossible ideas to life",
+  "extendedFooterText": "Figure has attracted the world’s leading robotics team with over 100 years of combined AI & humanoid experience.",
+  "extendedFooterImage": {
+    "contentType": "image/jpeg",
+    "src": "https://images.ctfassets.net/qx5k8y1u9drj/VVC0MrP2b4i0eC7jVaNyc/fb1b20a57c15495fc4ec0d37a7e8197c/extended-footer-background-v2.jpg",
+    "width": 2880,
+    "height": 4526,
+    "description": ""
+  },
+  "extendedFooterCta": {
+    "icon": null,
+    "label": "Careers",
+    "url": null,
+    "fragmentAndQueryString": null,
+    "isTargetBlank": false,
+    "internalLink": {
+      "__typename": "Page",
+      "slug": "careers"
+    }
+  },
+  "sections": [
+    {
+      "sys": {
+        "id": "4B0nkx7aU7EzVsx3vOgciL"
+      },
+      "__typename": "HeroV3",
+      "popoverRichText": null,
+      "secondSceneCta": null,
+      "secondSceneImage": null,
+      "secondSceneMobileImage": null,
+      "secondSceneVideo": null,
+      "secondSceneMobileVideo": null,
+      "secondScenePopoverRichText": null,
+      "id": "Figure is the first-of-its-kind AI robotics company bringing a general purpose humanoid to life.",
+      "size": "cover",
+      "layout": "text aligned to left / cta aligned to right",
+      "mobileLayout": "text and cta aligned to bottom",
+      "textContentMaxWidth": 496,
+      "hasGradient": null,
+      "heading": "Figure is the first-of-its-kind AI robotics company bringing a general purpose humanoid to life.",
+      "text": null,
+      "ctaIcon": "arrow",
+      "videoAspectRatio": "16/9",
+      "mobileVideoAspectRatio": "9/16",
+      "isPopoverEnabled": false,
+      "popoverHeading": null,
+      "popoverOpenButtonCtaLabel": "Read More",
+      "popoverCloseButtonCtaLabel": "Close",
+      "tag": null,
+      "isSecondSceneEnabled": false,
+      "firstSceneCtaLabel": null,
+      "secondSceneCtaLabel": null,
+      "secondSceneHeading": null,
+      "secondSceneText": null,
+      "secondSceneCtaIcon": "none",
+      "isSecondScenePopoverEnabled": false,
+      "secondScenePopoverHeading": null,
+      "secondScenePopoverOpenButtonCtaLabel": "Read More",
+      "secondScenePopoverCloseButtonCtaLabel": "Close",
+      "image": {
+        "contentType": "image/jpeg",
+        "src": "https://images.ctfassets.net/qx5k8y1u9drj/74CgXYJbIfPLcQGbb6cnmp/8530b6b54d6202461149f78e18e561ba/about-us-v2-hero-desktop-image.jpg",
+        "width": 1920,
+        "height": 1080,
+        "description": ""
+      },
+      "mobileImage": {
+        "contentType": "image/jpeg",
+        "src": "https://images.ctfassets.net/qx5k8y1u9drj/7j49yLU5ODyNzmxQbId7KI/4cd38c71201862f14b58bbc17894a438/about-us-v2-hero-mobile-image.jpg",
+        "width": 607,
+        "height": 1080,
+        "description": ""
+      },
+      "video": {
+        "contentType": "video/mp4",
+        "src": "https://videos.ctfassets.net/qx5k8y1u9drj/7KbwmDA4EtSql3dBBJ2i2h/628bc39f45c35b33ce47e162804a0553/about-us-v2-hero-desktop-video.mp4",
+        "width": null,
+        "height": null,
+        "description": ""
+      },
+      "mobileVideo": {
+        "contentType": "video/mp4",
+        "src": "https://videos.ctfassets.net/qx5k8y1u9drj/3foPjwLdVBzcDntUd8E9qm/edb6f93fc5c5a1d4be8f486a7229ed3f/about-us-v2-hero-mobile-video.mp4",
+        "width": null,
+        "height": null,
+        "description": ""
+      },
+      "cta": {
+        "internalLink": null,
+        "icon": null,
+        "label": "Watch the Video",
+        "url": "https://www.youtube.com/watch?v=HOoRnv3lA0k",
+        "fragmentAndQueryString": null,
+        "isTargetBlank": true
+      }
+    },
+    {
+      "sys": {
+        "id": "3KNtF5O0aJbEuEg37kT6pF"
+      },
+      "__typename": "HeroV3",
+      "cta": null,
+      "image": null,
+      "mobileImage": null,
+      "popoverRichText": null,
+      "secondSceneCta": null,
+      "secondSceneImage": null,
+      "secondSceneMobileImage": null,
+      "secondSceneVideo": null,
+      "secondSceneMobileVideo": null,
+      "secondScenePopoverRichText": null,
+      "id": "Beginnings",
+      "size": "cover",
+      "layout": "text aligned to right / cta aligned to left",
+      "mobileLayout": "text and cta aligned to bottom",
+      "textContentMaxWidth": 452,
+      "hasGradient": true,
+      "heading": "BEGINNINGS",
+      "text": "F.01, our first generation robot, took its first steps in May 2023, laying the foundation for our humanoid robot’s future.",
+      "ctaIcon": "dot",
+      "videoAspectRatio": "16/9",
+      "mobileVideoAspectRatio": "9/16",
+      "isPopoverEnabled": false,
+      "popoverHeading": null,
+      "popoverOpenButtonCtaLabel": "Read More",
+      "popoverCloseButtonCtaLabel": "Close",
+      "tag": "FIGURE 01",
+      "isSecondSceneEnabled": false,
+      "firstSceneCtaLabel": null,
+      "secondSceneCtaLabel": null,
+      "secondSceneHeading": null,
+      "secondSceneText": null,
+      "secondSceneCtaIcon": "none",
+      "isSecondScenePopoverEnabled": false,
+      "secondScenePopoverHeading": null,
+      "secondScenePopoverOpenButtonCtaLabel": "Read More",
+      "secondScenePopoverCloseButtonCtaLabel": "Close",
+      "video": {
+        "contentType": "video/mp4",
+        "src": "https://videos.ctfassets.net/qx5k8y1u9drj/793SxZadAAbbiJxJZ90xyo/cdca56ecadf4b21c33e9b9e4e8f04c39/company-01.mp4",
+        "width": null,
+        "height": null,
+        "description": ""
+      },
+      "mobileVideo": {
+        "contentType": "video/mp4",
+        "src": "https://videos.ctfassets.net/qx5k8y1u9drj/2T2DD7Ar2039a5u9SOfcz/71356f72f9bf597aeefd5b03aa8cab83/company-01-mobile.mp4",
+        "width": null,
+        "height": null,
+        "description": ""
+      }
+    },
+    {
+      "sys": {
+        "id": "1rJF47nY8ww48rQU1GIosl"
+      },
+      "__typename": "HeroV3",
+      "cta": null,
+      "image": null,
+      "mobileImage": null,
+      "popoverRichText": null,
+      "secondSceneCta": null,
+      "secondSceneImage": null,
+      "secondSceneMobileImage": null,
+      "secondSceneVideo": null,
+      "secondSceneMobileVideo": null,
+      "secondScenePopoverRichText": null,
+      "id": "Figure in the workforce",
+      "size": "cover",
+      "layout": "text aligned to right / cta aligned to left",
+      "mobileLayout": "text and cta aligned to bottom",
+      "textContentMaxWidth": 452,
+      "hasGradient": true,
+      "heading": "FIGURE IN THE WORKFORCE",
+      "text": "With F.02, we streamlined the design, advancing hand dexterity, integrating the battery into the torso, and creating a more compact, refined build—ready for real-world deployment.",
+      "ctaIcon": "dot",
+      "videoAspectRatio": "16/9",
+      "mobileVideoAspectRatio": "9/16",
+      "isPopoverEnabled": false,
+      "popoverHeading": null,
+      "popoverOpenButtonCtaLabel": "Read More",
+      "popoverCloseButtonCtaLabel": "Close",
+      "tag": "FIGURE 02",
+      "isSecondSceneEnabled": false,
+      "firstSceneCtaLabel": null,
+      "secondSceneCtaLabel": null,
+      "secondSceneHeading": null,
+      "secondSceneText": null,
+      "secondSceneCtaIcon": "none",
+      "isSecondScenePopoverEnabled": false,
+      "secondScenePopoverHeading": null,
+      "secondScenePopoverOpenButtonCtaLabel": "Read More",
+      "secondScenePopoverCloseButtonCtaLabel": "Close",
+      "video": {
+        "contentType": "video/mp4",
+        "src": "https://videos.ctfassets.net/qx5k8y1u9drj/4X7drJmYqsWmqozh7BSrjL/7978a704511f874a5e220c2a24b17b1c/company-02.mp4",
+        "width": null,
+        "height": null,
+        "description": ""
+      },
+      "mobileVideo": {
+        "contentType": "video/mp4",
+        "src": "https://videos.ctfassets.net/qx5k8y1u9drj/5qEcRATLMAcGCEuTdjXaPl/04f62d1c7ec2f3c51473ae187b384b57/company-02-mobile.mp4",
+        "width": null,
+        "height": null,
+        "description": ""
+      }
+    },
+    {
+      "sys": {
+        "id": "3cAy3uDyyybwD01QPX2NN9"
+      },
+      "__typename": "HeroV3",
+      "cta": null,
+      "mobileVideo": null,
+      "secondSceneCta": null,
+      "secondSceneImage": null,
+      "secondSceneMobileImage": null,
+      "secondSceneVideo": null,
+      "secondSceneMobileVideo": null,
+      "secondScenePopoverRichText": null,
+      "id": "Figure at home",
+      "size": "cover",
+      "layout": "text aligned to right / cta aligned to left",
+      "mobileLayout": "text and cta aligned to bottom",
+      "textContentMaxWidth": 452,
+      "hasGradient": true,
+      "heading": "FIGURE AT HOME",
+      "text": "After testing Figure in the workforce, F.03 was reimagined for home use. This version introduced numerous improvements, including a softer look and feel to better suit everyday living environments.",
+      "ctaIcon": "dot",
+      "videoAspectRatio": "16/9",
+      "mobileVideoAspectRatio": "9/16",
+      "isPopoverEnabled": false,
+      "popoverHeading": "FIGURE AT HOME",
+      "popoverOpenButtonCtaLabel": "Read More",
+      "popoverCloseButtonCtaLabel": "Close",
+      "tag": "FIGURE 03",
+      "isSecondSceneEnabled": false,
+      "firstSceneCtaLabel": null,
+      "secondSceneCtaLabel": null,
+      "secondSceneHeading": null,
+      "secondSceneText": null,
+      "secondSceneCtaIcon": "none",
+      "isSecondScenePopoverEnabled": false,
+      "secondScenePopoverHeading": null,
+      "secondScenePopoverOpenButtonCtaLabel": "Read More",
+      "secondScenePopoverCloseButtonCtaLabel": "Close",
+      "image": {
+        "contentType": "image/jpeg",
+        "src": "https://images.ctfassets.net/qx5k8y1u9drj/7m2MLTf6sS3H6qvQYU9S4r/2375be0cf4e6c15d3998e66efa8119ce/hero-company-image-04.jpg",
+        "width": 2560,
+        "height": 1440,
+        "description": ""
+      },
+      "mobileImage": {
+        "contentType": "image/jpeg",
+        "src": "https://images.ctfassets.net/qx5k8y1u9drj/7dpKkFCPNxpMydZmjaIIzk/4cfec890d75013a559aa4b29e05350e7/hero-company-image-04-mobile.jpg",
+        "width": 1536,
+        "height": 2733,
+        "description": ""
+      },
+      "video": {
+        "contentType": "video/mp4",
+        "src": "https://videos.ctfassets.net/qx5k8y1u9drj/74sGEuOe5oWDInG0ce9KaN/363ea15648be0c9988859e3e7842a243/company-03.mp4",
+        "width": null,
+        "height": null,
+        "description": "Video of the Figure 03 robot at home for the Company Page."
+      },
+      "popoverRichText": {
+        "json": {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "After testing Figure in the workforce, F.03 was reimagined for home use. This version introduced numerous improvements, including a softer look and feel to better suit everyday living environments.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            }
+          ],
+          "nodeType": "document"
+        },
+        "links": {
+          "entries": {
+            "hyperlink": []
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "T1ryrZCkCTOAXEJkVZx6c"
+      },
+      "__typename": "ValuesModule",
+      "id": "Our Values [About us V2]",
+      "heading": "OUR VALUES",
+      "kicker": null,
+      "itemsCollection": {
+        "items": [
+          {
+            "heading": "Move Fast & Be Technically Fearless",
+            "description": "Hesitation is the enemy of momentum. We are tackling today’s most complex technological challenges by testing, experimenting, and taking calculated risks to embrace the unknown without fear of failure."
+          },
+          {
+            "heading": "Product First, Mission Focused",
+            "description": "Our product and our mission are one in the same: to bring a commercially viable humanoid to market. We are builders, designers, and engineers united by a commitment to that mission. We avoid distraction and unrelated activities to remain laser-focused on shipping a safe, high quality product."
+          },
+          {
+            "heading": "Aggressively Optimistic",
+            "description": "Building Figure won’t be an easy win; it will require decades of commitment and ingenuity. We’re humbled by our mission, and aspire to remain optimistic even in the face of enormous hurdles."
+          },
+          {
+            "heading": "Maximize Future Impact",
+            "description": "We have what it takes to build the most groundbreaking company on the planet—to create an inspiring future for generations to come with safer, more efficient workplaces and homes that adapt to our needs. Our focus is on what we can achieve 5, 10, 20+ years from now, not the near-term wins."
+          },
+          {
+            "heading": "Championship Mindset",
+            "description": "To address the extraordinary demands of our work, we believe in operating as a winning team. We are in the trenches together, collaborating in person, remaining hyper-focused, and pushing each other to the highest levels of performance."
+          }
+        ]
+      },
+      "cta": {
+        "icon": null,
+        "label": "DIVE DEEPER INTO OUR CULTURE",
+        "url": null,
+        "fragmentAndQueryString": null,
+        "isTargetBlank": false,
+        "internalLink": {
+          "__typename": "Page",
+          "slug": "culture"
+        }
+      }
+    }
+  ],
+  "footer": {
+    "socialMediaTikTok": null,
+    "id": "footer",
+    "copyrightText": "© Figure 2026.",
+    "newsletterHeading": "Keep up with us",
+    "newsletterDescription": "Get news, photos, events, and business updates.",
+    "newsletterSuccessHeading": "Let's build.",
+    "newsletterSuccessDescription": "Thanks for signing up. Stay on the lookout for major robotics & AI announcements coming soon.",
+    "logo": {
+      "contentType": "image/svg+xml",
+      "src": "https://images.ctfassets.net/qx5k8y1u9drj/3ygvPaiOiIX62OhZ7oNO2h/d50ccd3bc449eab7ae098d87aa0cd040/figure-logo.svg",
+      "width": 461,
+      "height": 69,
+      "description": "Figure Logo"
+    },
+    "socialMediaTwitter": {
+      "internalLink": null,
+      "icon": null,
+      "label": "Twitter",
+      "url": "https://twitter.com/figure_robot",
+      "fragmentAndQueryString": null,
+      "isTargetBlank": true
+    },
+    "socialMediaInstagram": {
+      "internalLink": null,
+      "icon": null,
+      "label": "Instagram",
+      "url": "https://www.instagram.com/figure_robot/",
+      "fragmentAndQueryString": null,
+      "isTargetBlank": true
+    },
+    "socialMediaLinkedIn": {
+      "internalLink": null,
+      "icon": null,
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/company/figure-ai/",
+      "fragmentAndQueryString": null,
+      "isTargetBlank": true
+    },
+    "socialMediaYoutube": {
+      "internalLink": null,
+      "icon": null,
+      "label": "Youtube",
+      "url": "https://www.youtube.com/@figureai",
+      "fragmentAndQueryString": null,
+      "isTargetBlank": true
+    },
+    "linksCollection": {
+      "items": [
+        {
+          "icon": null,
+          "label": "FIGURE 03",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "figure"
+          }
+        },
+        {
+          "icon": null,
+          "label": "COMPANY",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "company"
+          }
+        },
+        {
+          "icon": null,
+          "label": "CAREERS",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "careers"
+          }
+        },
+        {
+          "icon": null,
+          "label": "HELIX",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "helix"
+          }
+        },
+        {
+          "icon": null,
+          "label": "NEWS",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "news"
+          }
+        },
+        {
+          "icon": null,
+          "label": "CULTURE",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "culture"
+          }
+        },
+        {
+          "icon": null,
+          "label": "MASTER PLAN",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "master-plan"
+          }
+        }
+      ]
+    },
+    "secondaryLinksCollection": {
+      "items": [
+        {
+          "icon": null,
+          "label": "Terms & Conditions",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "terms-and-conditions"
+          }
+        },
+        {
+          "icon": null,
+          "label": "Privacy Policy",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "privacy-policy"
+          }
+        },
+        {
+          "icon": null,
+          "label": "Accessibility Statement",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "accessibility-statement"
+          }
+        }
+      ]
+    }
+  },
+  "navigation": {
+    "linksCollection": {
+      "items": [
+        {
+          "icon": null,
+          "label": "FIGURE 03",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "figure"
+          }
+        },
+        {
+          "icon": null,
+          "label": "HELIX",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "helix"
+          }
+        },
+        {
+          "icon": null,
+          "label": "COMPANY",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "company"
+          }
+        },
+        {
+          "icon": null,
+          "label": "NEWS",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "news"
+          }
+        },
+        {
+          "icon": null,
+          "label": "CAREERS",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "careers"
+          }
+        }
+      ]
+    }
+  }
+}

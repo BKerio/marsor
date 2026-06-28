@@ -1,0 +1,6 @@
+@import "/figure-original.css";
+@import "/figure-page.css";
+
+#root {
+  min-height: 100%;
+}

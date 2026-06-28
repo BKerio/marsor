@@ -1,0 +1,639 @@
+{
+  "slug": "news",
+  "title": "News | Figure",
+  "description": "We’re bringing the humanoid to life. Join us.",
+  "isExtendedFooterEnabled": null,
+  "extendedFooterHeading": null,
+  "extendedFooterText": null,
+  "extendedFooterImage": null,
+  "extendedFooterCta": null,
+  "sections": [
+    {
+      "sys": {
+        "id": "1FieR2DClpIo7wCcPO4nDP"
+      },
+      "__typename": "ArticleList",
+      "id": "All News",
+      "featuredArticleCollection": {
+        "items": [
+          {
+            "sys": {
+              "id": "3U1qhT3LLbjsssR98qV18f"
+            },
+            "thumbnail": null,
+            "publicationDate": "2026-01-27T00:00:00.000Z",
+            "slug": "helix-02",
+            "articleTitle": "Introducing Helix 02: Full-Body Autonomy",
+            "externalArticleUrl": null,
+            "externalArticleSourceName": null,
+            "thumbnailVideo": {
+              "contentType": "video/mp4",
+              "src": "https://videos.ctfassets.net/qx5k8y1u9drj/2IRk51tWw1vBqZ1bYfca14/d34c4c29fa4c18bf110dc0df20adcd96/Thumbnail_Video_Helix.mp4",
+              "width": null,
+              "height": null,
+              "description": ""
+            }
+          },
+          {
+            "sys": {
+              "id": "4Pedandy4bFWuysuiiKYbo"
+            },
+            "thumbnail": null,
+            "publicationDate": "2025-10-09T00:00:00.000Z",
+            "slug": "introducing-figure-03",
+            "articleTitle": "Introducing Figure 03",
+            "externalArticleUrl": null,
+            "externalArticleSourceName": null,
+            "thumbnailVideo": {
+              "contentType": "video/mp4",
+              "src": "https://videos.ctfassets.net/qx5k8y1u9drj/4xz0lVTGGJN7Jrih05v6gY/537bdcb07de3a28e4116d78b48b96415/Thumbnail_Video__3_.mp4",
+              "width": null,
+              "height": null,
+              "description": ""
+            }
+          },
+          {
+            "sys": {
+              "id": "MWsMJnebYUYizor3Pu3W7"
+            },
+            "thumbnail": null,
+            "publicationDate": "2026-04-29T09:00:00.000Z",
+            "slug": "ramping-figure-03-production",
+            "articleTitle": "Ramping Figure 03 Production",
+            "externalArticleUrl": null,
+            "externalArticleSourceName": null,
+            "thumbnailVideo": {
+              "contentType": "video/mp4",
+              "src": "https://videos.ctfassets.net/qx5k8y1u9drj/3ddb6QH7JUyyIQ6hoYe6qo/4be894bde8da0a1f4df783ef34391770/Ramping_Thumbnail_video.mp4",
+              "width": null,
+              "height": null,
+              "description": ""
+            }
+          }
+        ]
+      },
+      "articlePageCollection": {
+        "total": 18,
+        "items": [
+          {
+            "sys": {
+              "id": "2Nxzp1YCCAgUetCVj6pFgV"
+            },
+            "thumbnail": null,
+            "publicationDate": "2026-05-26T00:00:00.000Z",
+            "slug": "figure-signs-agreement-with-catalyst-brands",
+            "articleTitle": "Figure Signs Agreement with Catalyst Brands to Scale Humanoid Operations",
+            "externalArticleUrl": null,
+            "externalArticleSourceName": null,
+            "thumbnailVideo": {
+              "contentType": "video/mp4",
+              "src": "https://videos.ctfassets.net/qx5k8y1u9drj/5HjYOan2BvAZNWsQyhECu0/b33406faba49dbf6dd9cc08b299cdd75/Thumbnail_Video_Catalyst.mp4",
+              "width": null,
+              "height": null,
+              "description": ""
+            }
+          },
+          {
+            "sys": {
+              "id": "2AN8bHZ4Ls7cFf1phluMzY"
+            },
+            "publicationDate": "2026-05-08T00:00:00.000Z",
+            "slug": "helix-02-bedroom-tidy",
+            "articleTitle": "Helix-02 Bedroom Tidy",
+            "externalArticleUrl": null,
+            "externalArticleSourceName": null,
+            "thumbnail": {
+              "contentType": "image/jpeg",
+              "src": "https://images.ctfassets.net/qx5k8y1u9drj/616ISizQAP1pT471E4Snqh/ee16f939c9d4ca1d820501b3c6b4c336/BEDROOM_TIDY_OPEN_GRAPH_IMAGE__1_.jpg",
+              "width": 1200,
+              "height": 630,
+              "description": ""
+            },
+            "thumbnailVideo": {
+              "contentType": "video/mp4",
+              "src": "https://videos.ctfassets.net/qx5k8y1u9drj/7GBmB8G0nJn0v1MO0D1ojG/64a158bab522be3fcfb5293e2f2ddf26/BEDROOM_TIDY_THUMBNAIL_VIDEO_1024_X_820.mp4",
+              "width": null,
+              "height": null,
+              "description": ""
+            }
+          },
+          {
+            "sys": {
+              "id": "MWsMJnebYUYizor3Pu3W7"
+            },
+            "thumbnail": null,
+            "publicationDate": "2026-04-29T09:00:00.000Z",
+            "slug": "ramping-figure-03-production",
+            "articleTitle": "Ramping Figure 03 Production",
+            "externalArticleUrl": null,
+            "externalArticleSourceName": null,
+            "thumbnailVideo": {
+              "contentType": "video/mp4",
+              "src": "https://videos.ctfassets.net/qx5k8y1u9drj/3ddb6QH7JUyyIQ6hoYe6qo/4be894bde8da0a1f4df783ef34391770/Ramping_Thumbnail_video.mp4",
+              "width": null,
+              "height": null,
+              "description": ""
+            }
+          },
+          {
+            "sys": {
+              "id": "K4ZtqnNacOH24zcG5Fp1K"
+            },
+            "thumbnail": null,
+            "publicationDate": "2026-03-09T00:00:00.000Z",
+            "slug": "helix-02-living-room-tidy",
+            "articleTitle": "Helix 02 Living Room Tidy",
+            "externalArticleUrl": null,
+            "externalArticleSourceName": null,
+            "thumbnailVideo": {
+              "contentType": "video/mp4",
+              "src": "https://videos.ctfassets.net/qx5k8y1u9drj/1JeH7Ll5JboDMfbxlcZzQD/926f55e77cd5c7be0f9c3807dc612856/THUMBNAIL_VIDEO__5_.mp4",
+              "width": null,
+              "height": null,
+              "description": ""
+            }
+          },
+          {
+            "sys": {
+              "id": "3U1qhT3LLbjsssR98qV18f"
+            },
+            "thumbnail": null,
+            "publicationDate": "2026-01-27T00:00:00.000Z",
+            "slug": "helix-02",
+            "articleTitle": "Introducing Helix 02: Full-Body Autonomy",
+            "externalArticleUrl": null,
+            "externalArticleSourceName": null,
+            "thumbnailVideo": {
+              "contentType": "video/mp4",
+              "src": "https://videos.ctfassets.net/qx5k8y1u9drj/2IRk51tWw1vBqZ1bYfca14/d34c4c29fa4c18bf110dc0df20adcd96/Thumbnail_Video_Helix.mp4",
+              "width": null,
+              "height": null,
+              "description": ""
+            }
+          },
+          {
+            "sys": {
+              "id": "1r8L4TIw4iuvJWuRJUs1pF"
+            },
+            "thumbnail": null,
+            "publicationDate": "2025-11-19T00:00:00.000Z",
+            "slug": "production-at-bmw",
+            "articleTitle": "F.02 Contributed to the Production of 30,000 Cars at BMW",
+            "externalArticleUrl": null,
+            "externalArticleSourceName": null,
+            "thumbnailVideo": {
+              "contentType": "video/mp4",
+              "src": "https://videos.ctfassets.net/qx5k8y1u9drj/40VySCK3cG9H9a33IdTKJe/b6cb8d17bfa26020f278411641d2547d/Thumbnail_Video_F.02_BMW.mp4",
+              "width": null,
+              "height": null,
+              "description": ""
+            }
+          },
+          {
+            "sys": {
+              "id": "4Pedandy4bFWuysuiiKYbo"
+            },
+            "thumbnail": null,
+            "publicationDate": "2025-10-09T00:00:00.000Z",
+            "slug": "introducing-figure-03",
+            "articleTitle": "Introducing Figure 03",
+            "externalArticleUrl": null,
+            "externalArticleSourceName": null,
+            "thumbnailVideo": {
+              "contentType": "video/mp4",
+              "src": "https://videos.ctfassets.net/qx5k8y1u9drj/4xz0lVTGGJN7Jrih05v6gY/537bdcb07de3a28e4116d78b48b96415/Thumbnail_Video__3_.mp4",
+              "width": null,
+              "height": null,
+              "description": ""
+            }
+          },
+          {
+            "sys": {
+              "id": "5Xx22wyNzMdGAmMV6PQ881"
+            },
+            "thumbnail": null,
+            "publicationDate": "2025-09-18T00:00:00.000Z",
+            "slug": "project-go-big",
+            "articleTitle": "Project Go-Big: Internet-Scale Humanoid Pretraining and Direct Human-to-Robot Transfer",
+            "externalArticleUrl": null,
+            "externalArticleSourceName": null,
+            "thumbnailVideo": {
+              "contentType": "video/mp4",
+              "src": "https://videos.ctfassets.net/qx5k8y1u9drj/3K9nHZDobDqOE07x02h1ZF/f2c563fc0bdf7857f07452be38dc2eef/Thumbnail_Video_darker.mp4",
+              "width": null,
+              "height": null,
+              "description": ""
+            }
+          },
+          {
+            "sys": {
+              "id": "2Lkbamv8YHavnirl0nejlW"
+            },
+            "thumbnail": null,
+            "publicationDate": "2025-09-17T00:00:00.000Z",
+            "slug": "figure-announces-strategic-partnership-with-brookfield",
+            "articleTitle": "Figure Announces Strategic Partnership with Brookfield",
+            "externalArticleUrl": null,
+            "externalArticleSourceName": null,
+            "thumbnailVideo": {
+              "contentType": "video/mp4",
+              "src": "https://videos.ctfassets.net/qx5k8y1u9drj/5oirwlRaaFIfY87kXxFVmo/96bda1733279309a5064c6856beac074/Brookfield_THUMBNAIL_VIDEO.mp4",
+              "width": null,
+              "height": null,
+              "description": ""
+            }
+          },
+          {
+            "sys": {
+              "id": "4Wxuavu82FjIPxkaP8IlGY"
+            },
+            "thumbnail": null,
+            "publicationDate": "2025-09-16T00:00:00.000Z",
+            "slug": "series-c",
+            "articleTitle": "Figure Exceeds $1B in Series C Funding at $39B Post-Money Valuation",
+            "externalArticleUrl": null,
+            "externalArticleSourceName": null,
+            "thumbnailVideo": {
+              "contentType": "video/mp4",
+              "src": "https://videos.ctfassets.net/qx5k8y1u9drj/3fCuffDZ3uuQESKH9ZJLEZ/350bc903227430d11dbfdfad5b02a4ff/Thumbnail_v2.mp4",
+              "width": null,
+              "height": null,
+              "description": ""
+            }
+          },
+          {
+            "sys": {
+              "id": "2Cj2MVqiXpEQCkdpB1a6c4"
+            },
+            "thumbnail": null,
+            "publicationDate": "2025-09-03T00:00:00.000Z",
+            "slug": "helix-loads-the-dishwasher",
+            "articleTitle": "Helix Loads the Dishwasher",
+            "externalArticleUrl": null,
+            "externalArticleSourceName": null,
+            "thumbnailVideo": {
+              "contentType": "video/mp4",
+              "src": "https://videos.ctfassets.net/qx5k8y1u9drj/35FiJ5CUehHheBZvM5iQTT/7ecb4c5803e1e06c292d6e6126ec53f8/Thumbnail_1024_x_820.mp4",
+              "width": null,
+              "height": null,
+              "description": ""
+            }
+          },
+          {
+            "sys": {
+              "id": "i8c1zArr486kzwJyBwM59"
+            },
+            "thumbnail": null,
+            "publicationDate": "2025-08-12T00:00:00.000Z",
+            "slug": "helix-learns-to-fold-laundry",
+            "articleTitle": "Helix Learns to Fold Laundry",
+            "externalArticleUrl": null,
+            "externalArticleSourceName": null,
+            "thumbnailVideo": {
+              "contentType": "video/mp4",
+              "src": "https://videos.ctfassets.net/qx5k8y1u9drj/5GSSsLqmIMdm9gFjo7324o/cc01e92935b6df2f867f74bc1ff4d57a/Thumbnail_1024x820.mp4",
+              "width": null,
+              "height": null,
+              "description": ""
+            }
+          },
+          {
+            "sys": {
+              "id": "2IOTlBqvoiVXr5rTZxSjWS"
+            },
+            "thumbnail": null,
+            "publicationDate": "2025-07-17T00:00:00.000Z",
+            "slug": "f-03-battery-development",
+            "articleTitle": "F.03 Battery Development",
+            "externalArticleUrl": null,
+            "externalArticleSourceName": null,
+            "thumbnailVideo": {
+              "contentType": "video/mp4",
+              "src": "https://videos.ctfassets.net/qx5k8y1u9drj/5cI5CGC4ZmiSNdq2VBpWJs/ab7ab3ee80fc3643f5ba0264e43ccbab/1024x820.mp4",
+              "width": null,
+              "height": null,
+              "description": ""
+            }
+          },
+          {
+            "sys": {
+              "id": "6IXvEaRlKV2aZ4UN4kzMmc"
+            },
+            "thumbnail": null,
+            "publicationDate": "2025-06-07T00:00:00.000Z",
+            "slug": "scaling-helix-logistics",
+            "articleTitle": "Scaling Helix: a New State of the Art in Humanoid Logistics",
+            "externalArticleUrl": null,
+            "externalArticleSourceName": null,
+            "thumbnailVideo": {
+              "contentType": "video/mp4",
+              "src": "https://videos.ctfassets.net/qx5k8y1u9drj/3wow8s11QKxGUYe3jS8iTQ/dbafdaef619562d24ec08e19da170d7d/THUMBNAIL_VIDEO__1_.mp4",
+              "width": null,
+              "height": null,
+              "description": ""
+            }
+          },
+          {
+            "sys": {
+              "id": "1AtipoZP0CGXqufh3ZWguA"
+            },
+            "thumbnail": null,
+            "publicationDate": "2025-03-25T00:00:00.000Z",
+            "slug": "reinforcement-learning-walking",
+            "articleTitle": "Natural Humanoid Walk Using Reinforcement Learning",
+            "externalArticleUrl": null,
+            "externalArticleSourceName": null,
+            "thumbnailVideo": {
+              "contentType": "video/mp4",
+              "src": "https://videos.ctfassets.net/qx5k8y1u9drj/5Y2NLxoCcxiRCeL1onI4jm/b01e4c9a883a28efbd5b6e1563aa047c/Thumbnail_video_1.mp4",
+              "width": null,
+              "height": null,
+              "description": ""
+            }
+          },
+          {
+            "sys": {
+              "id": "6wtZZKtUMCu1FxugHarQlk"
+            },
+            "thumbnail": null,
+            "publicationDate": "2025-03-15T08:00:00.000Z",
+            "slug": "botq",
+            "articleTitle": "BotQ: A High-Volume Manufacturing Facility for Humanoid Robots",
+            "externalArticleUrl": null,
+            "externalArticleSourceName": null,
+            "thumbnailVideo": {
+              "contentType": "video/mp4",
+              "src": "https://videos.ctfassets.net/qx5k8y1u9drj/6GCWfPQWrmpQSQNxiTnvHU/eaeba5429d005daa6330f80032854176/Thumbnail_Video.mp4",
+              "width": null,
+              "height": null,
+              "description": ""
+            }
+          },
+          {
+            "sys": {
+              "id": "2pliUs4RnoEIno7KFsWSVy"
+            },
+            "thumbnail": null,
+            "publicationDate": "2025-02-26T00:00:00.000Z",
+            "slug": "helix-logistics",
+            "articleTitle": "Helix Accelerating Real-World Logistics",
+            "externalArticleUrl": null,
+            "externalArticleSourceName": null,
+            "thumbnailVideo": {
+              "contentType": "video/mp4",
+              "src": "https://videos.ctfassets.net/qx5k8y1u9drj/1FvGODM3GqnWYKCRKYXcEM/8029217075393f35a375d3bcd5e17c68/VIDEO_THUMBNAIL_1024x820.mp4",
+              "width": null,
+              "height": null,
+              "description": ""
+            }
+          },
+          {
+            "sys": {
+              "id": "40EPLHgAGMclz1YFA07EmL"
+            },
+            "thumbnail": null,
+            "publicationDate": "2025-02-20T06:00:00.000Z",
+            "slug": "helix",
+            "articleTitle": "Helix: A Vision-Language-Action Model for Generalist Humanoid Control",
+            "externalArticleUrl": null,
+            "externalArticleSourceName": null,
+            "thumbnailVideo": {
+              "contentType": "video/mp4",
+              "src": "https://videos.ctfassets.net/qx5k8y1u9drj/3RB0G0iK07j7wq7DLIVp5V/040b5999cbac7b73731d92c947486aa1/HERO_DESKTOP_FINAL__1_.mp4",
+              "width": null,
+              "height": null,
+              "description": ""
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "footer": {
+    "socialMediaTikTok": null,
+    "id": "footer",
+    "copyrightText": "© Figure 2026.",
+    "newsletterHeading": "Keep up with us",
+    "newsletterDescription": "Get news, photos, events, and business updates.",
+    "newsletterSuccessHeading": "Let's build.",
+    "newsletterSuccessDescription": "Thanks for signing up. Stay on the lookout for major robotics & AI announcements coming soon.",
+    "logo": {
+      "contentType": "image/svg+xml",
+      "src": "https://images.ctfassets.net/qx5k8y1u9drj/3ygvPaiOiIX62OhZ7oNO2h/d50ccd3bc449eab7ae098d87aa0cd040/figure-logo.svg",
+      "width": 461,
+      "height": 69,
+      "description": "Figure Logo"
+    },
+    "socialMediaTwitter": {
+      "internalLink": null,
+      "icon": null,
+      "label": "Twitter",
+      "url": "https://twitter.com/figure_robot",
+      "fragmentAndQueryString": null,
+      "isTargetBlank": true
+    },
+    "socialMediaInstagram": {
+      "internalLink": null,
+      "icon": null,
+      "label": "Instagram",
+      "url": "https://www.instagram.com/figure_robot/",
+      "fragmentAndQueryString": null,
+      "isTargetBlank": true
+    },
+    "socialMediaLinkedIn": {
+      "internalLink": null,
+      "icon": null,
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/company/figure-ai/",
+      "fragmentAndQueryString": null,
+      "isTargetBlank": true
+    },
+    "socialMediaYoutube": {
+      "internalLink": null,
+      "icon": null,
+      "label": "Youtube",
+      "url": "https://www.youtube.com/@figureai",
+      "fragmentAndQueryString": null,
+      "isTargetBlank": true
+    },
+    "linksCollection": {
+      "items": [
+        {
+          "icon": null,
+          "label": "FIGURE 03",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "figure"
+          }
+        },
+        {
+          "icon": null,
+          "label": "COMPANY",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "company"
+          }
+        },
+        {
+          "icon": null,
+          "label": "CAREERS",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "careers"
+          }
+        },
+        {
+          "icon": null,
+          "label": "HELIX",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "helix"
+          }
+        },
+        {
+          "icon": null,
+          "label": "NEWS",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "news"
+          }
+        },
+        {
+          "icon": null,
+          "label": "CULTURE",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "culture"
+          }
+        },
+        {
+          "icon": null,
+          "label": "MASTER PLAN",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "master-plan"
+          }
+        }
+      ]
+    },
+    "secondaryLinksCollection": {
+      "items": [
+        {
+          "icon": null,
+          "label": "Terms & Conditions",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "terms-and-conditions"
+          }
+        },
+        {
+          "icon": null,
+          "label": "Privacy Policy",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "privacy-policy"
+          }
+        },
+        {
+          "icon": null,
+          "label": "Accessibility Statement",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "accessibility-statement"
+          }
+        }
+      ]
+    }
+  },
+  "navigation": {
+    "linksCollection": {
+      "items": [
+        {
+          "icon": null,
+          "label": "FIGURE 03",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "figure"
+          }
+        },
+        {
+          "icon": null,
+          "label": "HELIX",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "helix"
+          }
+        },
+        {
+          "icon": null,
+          "label": "COMPANY",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "company"
+          }
+        },
+        {
+          "icon": null,
+          "label": "NEWS",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "news"
+          }
+        },
+        {
+          "icon": null,
+          "label": "CAREERS",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "careers"
+          }
+        }
+      ]
+    }
+  }
+}

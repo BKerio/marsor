@@ -1,0 +1,570 @@
+{
+  "slug": "helix",
+  "title": "Helix | Figure",
+  "description": "Figure is the first-of-its-kind AI robotics company bringing a general purpose humanoid to life.",
+  "isExtendedFooterEnabled": true,
+  "extendedFooterHeading": "THE TEAM BRINGING IMPOSSIBLE IDEAS TO LIFE",
+  "extendedFooterText": "Figure has attracted the world’s leading robotics team with over 100 years of combined AI & humanoid experience.",
+  "extendedFooterImage": {
+    "contentType": "image/jpeg",
+    "src": "https://images.ctfassets.net/qx5k8y1u9drj/VVC0MrP2b4i0eC7jVaNyc/fb1b20a57c15495fc4ec0d37a7e8197c/extended-footer-background-v2.jpg",
+    "width": 2880,
+    "height": 4526,
+    "description": ""
+  },
+  "extendedFooterCta": {
+    "icon": null,
+    "label": "Careers",
+    "url": null,
+    "fragmentAndQueryString": null,
+    "isTargetBlank": false,
+    "internalLink": {
+      "__typename": "Page",
+      "slug": "careers"
+    }
+  },
+  "sections": [
+    {
+      "sys": {
+        "id": "7lUVsq2r52HV0SfrJv96wX"
+      },
+      "__typename": "HeroV4",
+      "image": null,
+      "mobileImage": null,
+      "id": "HELIX",
+      "textContentMaxWidth": 400,
+      "heading": null,
+      "text": "Helix, our AI system, is a generalist humanoid Vision-Language-Action model that learns and improves over time as it acquires new skills.",
+      "ctaIcon": "arrow",
+      "logoImage": {
+        "contentType": "image/svg+xml",
+        "src": "https://images.ctfassets.net/qx5k8y1u9drj/16I9TPiak7iOSOyG2WDW8X/0d81fe409fda97444a4f04f96161b9cf/hero-v4-logo-image-helix.svg",
+        "width": 341,
+        "height": 70,
+        "description": ""
+      },
+      "video": {
+        "contentType": "video/mp4",
+        "src": "https://videos.ctfassets.net/qx5k8y1u9drj/2kxYjPvQxyCWQHZoJYUhP2/cde02ec2aa7c829df95b5e70cdebf76e/helix-01.mp4",
+        "width": null,
+        "height": null,
+        "description": ""
+      },
+      "mobileVideo": {
+        "contentType": "video/mp4",
+        "src": "https://videos.ctfassets.net/qx5k8y1u9drj/1zju9suqpU3VTfd8iPvDwz/38bb6960f1afe91a53a17ac1efaee419/helix-01-mobile.mp4",
+        "width": null,
+        "height": null,
+        "description": ""
+      },
+      "cta": {
+        "internalLink": null,
+        "icon": null,
+        "label": "Full Video",
+        "url": "https://www.youtube.com/watch?v=HOoRnv3lA0k",
+        "fragmentAndQueryString": null,
+        "isTargetBlank": true
+      }
+    },
+    {
+      "sys": {
+        "id": "1T0UE9VaIEbe3fRzWHSYuz"
+      },
+      "__typename": "HeroV3",
+      "cta": null,
+      "image": null,
+      "mobileImage": null,
+      "popoverRichText": null,
+      "secondSceneCta": null,
+      "secondSceneImage": null,
+      "secondSceneMobileImage": null,
+      "secondSceneVideo": null,
+      "secondSceneMobileVideo": null,
+      "secondScenePopoverRichText": null,
+      "id": "Helix is a generalist humanoid Vision-Language-Action (VLA) model.",
+      "size": "cover",
+      "layout": "text aligned to right / cta aligned to left",
+      "mobileLayout": "text and cta aligned to bottom",
+      "textContentMaxWidth": 536,
+      "hasGradient": true,
+      "heading": "Helix is designed to reason like a human",
+      "text": "Helix controls the full loop: perception, movement, and reasoning, on board and in real time. This enables Figure 03 to consider and perform tasks on its own, without following a script.",
+      "ctaIcon": "dot",
+      "videoAspectRatio": "16/9",
+      "mobileVideoAspectRatio": "9/16",
+      "isPopoverEnabled": false,
+      "popoverHeading": null,
+      "popoverOpenButtonCtaLabel": "Read More",
+      "popoverCloseButtonCtaLabel": "Close",
+      "tag": null,
+      "isSecondSceneEnabled": false,
+      "firstSceneCtaLabel": null,
+      "secondSceneCtaLabel": null,
+      "secondSceneHeading": null,
+      "secondSceneText": null,
+      "secondSceneCtaIcon": "none",
+      "isSecondScenePopoverEnabled": false,
+      "secondScenePopoverHeading": null,
+      "secondScenePopoverOpenButtonCtaLabel": "Read More",
+      "secondScenePopoverCloseButtonCtaLabel": "Close",
+      "video": {
+        "contentType": "video/mp4",
+        "src": "https://videos.ctfassets.net/qx5k8y1u9drj/6mi5N7QDa3phn1j0OA3tR7/66482b72539e65a9e97c476fd342a43b/helix-02.mp4",
+        "width": null,
+        "height": null,
+        "description": "Video of the Figure Robot for the Helix Page"
+      },
+      "mobileVideo": {
+        "contentType": "video/mp4",
+        "src": "https://videos.ctfassets.net/qx5k8y1u9drj/7ESqEXkjx3sr5cfXTfutcY/75c46f65619029ee1ca91219e64beb3d/helix-02-mobile.mp4",
+        "width": null,
+        "height": null,
+        "description": ""
+      }
+    },
+    {
+      "sys": {
+        "id": "6qYRCmfSfEzR8oAIImuFjH"
+      },
+      "__typename": "Cta",
+      "id": "Read our latest technical writeups on Helix’s AI system and its real-world applications.",
+      "theme": "light",
+      "kicker": null,
+      "heading": "Read our latest technical writeups on Helix’s AI system and its real-world applications.",
+      "description": null,
+      "cta": {
+        "icon": null,
+        "label": "Explore Helix’s AI System",
+        "url": null,
+        "fragmentAndQueryString": null,
+        "isTargetBlank": false,
+        "internalLink": {
+          "__typename": "ArticlePage",
+          "slug": "helix"
+        }
+      },
+      "secondaryCta": {
+        "icon": null,
+        "label": "See Helix in Logistics",
+        "url": null,
+        "fragmentAndQueryString": null,
+        "isTargetBlank": false,
+        "internalLink": {
+          "__typename": "ArticlePage",
+          "slug": "helix-logistics"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "7DcpuIL92W8rbHt8gAkzJc"
+      },
+      "__typename": "Lottie",
+      "theme": "light",
+      "id": "Figure-03-lottie",
+      "lottieFileAspectRatio": "1266/497",
+      "mobileLottieFileAspectRatio": "700/1278",
+      "lottieFile": {
+        "contentType": "application/json",
+        "src": "https://downloads.ctfassets.net/qx5k8y1u9drj/1YjhAfEMrf8JVPea53oPT9/832e1ada1ebf91bac7767957b0500033/figure-3-helix-v2.json",
+        "width": null,
+        "height": null,
+        "description": ""
+      },
+      "mobileLottieFile": {
+        "contentType": "application/json",
+        "src": "https://downloads.ctfassets.net/qx5k8y1u9drj/42LXafLYe6mW4Gi4MUca1R/c9ba5cc7735b59b7fae31e733059e1ae/figure-3-helix-v2-mobile.json",
+        "width": null,
+        "height": null,
+        "description": ""
+      }
+    },
+    {
+      "sys": {
+        "id": "1EMkiGWwMU6spv5909t5UM"
+      },
+      "__typename": "VideoCarousel",
+      "cta": null,
+      "theme": "dark",
+      "id": "Helix",
+      "kicker": null,
+      "heading": null,
+      "description": null,
+      "videoCarouselItemCollection": {
+        "items": [
+          {
+            "image": null,
+            "title": "Scaling Helix - Laundry",
+            "iFrameEmbedCode": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/HOoRnv3lA0k?si=YO-d3TMKKOZ70RLC\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+            "videoThumbnail": {
+              "contentType": "video/mp4",
+              "src": "https://videos.ctfassets.net/qx5k8y1u9drj/4k5kS2gknNxU59RlakrOem/a92eb8e9f9cb1bd4e269fff95e28d216/Video_Cover_-_Mobile_934x1434.mp4",
+              "width": null,
+              "height": null,
+              "description": ""
+            }
+          },
+          {
+            "videoThumbnail": null,
+            "title": "F.03 Battery",
+            "iFrameEmbedCode": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Ts-TtxvfVq4?si=paFmNjJfGUXLvtHq\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+            "image": {
+              "contentType": "image/jpeg",
+              "src": "https://images.ctfassets.net/qx5k8y1u9drj/49vejzWlhnjh9H3QgNMyex/18866d4d3d3e5c35eae743cb2f5b93e0/736x590.jpg",
+              "width": 736,
+              "height": 590,
+              "description": ""
+            }
+          },
+          {
+            "videoThumbnail": null,
+            "title": "Scaling Helix - Logistics",
+            "iFrameEmbedCode": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/lkc2y0yb89U?si=7fmk5jZN5FePzz1U\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+            "image": {
+              "contentType": "image/jpeg",
+              "src": "https://images.ctfassets.net/qx5k8y1u9drj/771jk4N45KWtNpgzKOa74I/026e279edb38b0521792a498021e662d/VIDEO_CAROUSEL.jpg",
+              "width": 736,
+              "height": 590,
+              "description": ""
+            }
+          },
+          {
+            "videoThumbnail": null,
+            "title": "Helix",
+            "iFrameEmbedCode": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Z3yQHYNXPws?si=oF9B1Z-ESE_f7gF7\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+            "image": {
+              "contentType": "image/png",
+              "src": "https://images.ctfassets.net/qx5k8y1u9drj/5SJSoghaktHNHdqIcfRfoW/8d5171f36aa714aeaaaddb13c450b390/image__69_.png",
+              "width": 736,
+              "height": 590,
+              "description": ""
+            }
+          },
+          {
+            "videoThumbnail": null,
+            "title": "BMW Update",
+            "iFrameEmbedCode": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/WoXCHr1IaTM?si=lzTu2K3UdTbJB0jq\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+            "image": {
+              "contentType": "image/jpeg",
+              "src": "https://images.ctfassets.net/qx5k8y1u9drj/eFNOjuVD1YvlsmNOlazHu/2446a35a55b9e8f7c678215058a14559/bmw_deployment_figure_in_action.jpg",
+              "width": 736,
+              "height": 590,
+              "description": ""
+            }
+          },
+          {
+            "videoThumbnail": null,
+            "title": "Helix Logistics",
+            "iFrameEmbedCode": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/f6ChFc8eUuo?si=oWcOHkYR7aPZi5tZ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+            "image": {
+              "contentType": "image/png",
+              "src": "https://images.ctfassets.net/qx5k8y1u9drj/XDpqBBey1oW5zYszgwfbQ/27b5089928f06047d4d7c5eea47c3b6c/image__69__copy.png",
+              "width": 736,
+              "height": 590,
+              "description": ""
+            }
+          },
+          {
+            "videoThumbnail": null,
+            "title": "BMW Use Case",
+            "iFrameEmbedCode": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/WlUFoZstcWg?si=MrxaSocrByP5Dp5w\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+            "image": {
+              "contentType": "image/jpeg",
+              "src": "https://images.ctfassets.net/qx5k8y1u9drj/3T5Yq1QQ17AV0lCDs7GFxb/9be8682ceacc40726ce69fe62cd2a5ea/bmw_update_website_thumb.jpg",
+              "width": 736,
+              "height": 590,
+              "description": ""
+            }
+          },
+          {
+            "videoThumbnail": null,
+            "title": "Introducing Figure 02",
+            "iFrameEmbedCode": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/0SRVJaOg9Co?si=kpgq0WgleO3jPBV6\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+            "image": {
+              "contentType": "image/jpeg",
+              "src": "https://images.ctfassets.net/qx5k8y1u9drj/2oUM07hyEapemJNxfn3CKu/66915363ca119cfa05985d58614e968d/videa_carousell_image.jpg",
+              "width": 736,
+              "height": 590,
+              "description": ""
+            }
+          },
+          {
+            "videoThumbnail": null,
+            "title": "OpenAI Speech-to-Speech Reasoning",
+            "iFrameEmbedCode": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Sq1QZB5baNw?si=meL2NuNEKFLzsGkZ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+            "image": {
+              "contentType": "image/jpeg",
+              "src": "https://images.ctfassets.net/qx5k8y1u9drj/4FpmPnYEyqzXeID5p1VhWD/17217a640caee9acb35e4735404ef717/video-carousel-01.jpg",
+              "width": 736,
+              "height": 590,
+              "description": ""
+            }
+          },
+          {
+            "videoThumbnail": null,
+            "title": "Real World Task",
+            "iFrameEmbedCode": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/gEjXcEU3Bbw?si=7RKv-NiUBXjg6SXH\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+            "image": {
+              "contentType": "image/jpeg",
+              "src": "https://images.ctfassets.net/qx5k8y1u9drj/7jhDmpjq4WzPUqKrrFH0EH/a589e0a272b16e687ac6224576331486/video-carousel-02.jpg",
+              "width": 736,
+              "height": 590,
+              "description": ""
+            }
+          },
+          {
+            "videoThumbnail": null,
+            "title": "AI Trained Coffee Demo",
+            "iFrameEmbedCode": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Q5MKo7Idsok?si=wN7lVpLvveV2bmdf\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+            "image": {
+              "contentType": "image/jpeg",
+              "src": "https://images.ctfassets.net/qx5k8y1u9drj/3GGgtyZzlYgSmmFKyrE5sa/d4c7012e4847cd1ac80e5ea4b9f969ba/video-carousel-03.jpg",
+              "width": 736,
+              "height": 590,
+              "description": ""
+            }
+          },
+          {
+            "videoThumbnail": null,
+            "title": "Dynamic Walking",
+            "iFrameEmbedCode": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/jACJruCzUzY?si=TSGmpl8HmmnA9lWP\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+            "image": {
+              "contentType": "image/jpeg",
+              "src": "https://images.ctfassets.net/qx5k8y1u9drj/1HTjyN6yU4ZR3eVjzkiQoX/a337234eb9680e2b074648faa5d9f2ad/video-carousel-04.jpg",
+              "width": 736,
+              "height": 590,
+              "description": ""
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "footer": {
+    "socialMediaTikTok": null,
+    "id": "footer",
+    "copyrightText": "© Figure 2026.",
+    "newsletterHeading": "Keep up with us",
+    "newsletterDescription": "Get news, photos, events, and business updates.",
+    "newsletterSuccessHeading": "Let's build.",
+    "newsletterSuccessDescription": "Thanks for signing up. Stay on the lookout for major robotics & AI announcements coming soon.",
+    "logo": {
+      "contentType": "image/svg+xml",
+      "src": "https://images.ctfassets.net/qx5k8y1u9drj/3ygvPaiOiIX62OhZ7oNO2h/d50ccd3bc449eab7ae098d87aa0cd040/figure-logo.svg",
+      "width": 461,
+      "height": 69,
+      "description": "Figure Logo"
+    },
+    "socialMediaTwitter": {
+      "internalLink": null,
+      "icon": null,
+      "label": "Twitter",
+      "url": "https://twitter.com/figure_robot",
+      "fragmentAndQueryString": null,
+      "isTargetBlank": true
+    },
+    "socialMediaInstagram": {
+      "internalLink": null,
+      "icon": null,
+      "label": "Instagram",
+      "url": "https://www.instagram.com/figure_robot/",
+      "fragmentAndQueryString": null,
+      "isTargetBlank": true
+    },
+    "socialMediaLinkedIn": {
+      "internalLink": null,
+      "icon": null,
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/company/figure-ai/",
+      "fragmentAndQueryString": null,
+      "isTargetBlank": true
+    },
+    "socialMediaYoutube": {
+      "internalLink": null,
+      "icon": null,
+      "label": "Youtube",
+      "url": "https://www.youtube.com/@figureai",
+      "fragmentAndQueryString": null,
+      "isTargetBlank": true
+    },
+    "linksCollection": {
+      "items": [
+        {
+          "icon": null,
+          "label": "FIGURE 03",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "figure"
+          }
+        },
+        {
+          "icon": null,
+          "label": "COMPANY",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "company"
+          }
+        },
+        {
+          "icon": null,
+          "label": "CAREERS",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "careers"
+          }
+        },
+        {
+          "icon": null,
+          "label": "HELIX",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "helix"
+          }
+        },
+        {
+          "icon": null,
+          "label": "NEWS",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "news"
+          }
+        },
+        {
+          "icon": null,
+          "label": "CULTURE",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "culture"
+          }
+        },
+        {
+          "icon": null,
+          "label": "MASTER PLAN",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "master-plan"
+          }
+        }
+      ]
+    },
+    "secondaryLinksCollection": {
+      "items": [
+        {
+          "icon": null,
+          "label": "Terms & Conditions",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "terms-and-conditions"
+          }
+        },
+        {
+          "icon": null,
+          "label": "Privacy Policy",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "privacy-policy"
+          }
+        },
+        {
+          "icon": null,
+          "label": "Accessibility Statement",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "accessibility-statement"
+          }
+        }
+      ]
+    }
+  },
+  "navigation": {
+    "linksCollection": {
+      "items": [
+        {
+          "icon": null,
+          "label": "FIGURE 03",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "figure"
+          }
+        },
+        {
+          "icon": null,
+          "label": "HELIX",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "helix"
+          }
+        },
+        {
+          "icon": null,
+          "label": "COMPANY",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "company"
+          }
+        },
+        {
+          "icon": null,
+          "label": "NEWS",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "news"
+          }
+        },
+        {
+          "icon": null,
+          "label": "CAREERS",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "careers"
+          }
+        }
+      ]
+    }
+  }
+}

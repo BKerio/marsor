@@ -1,0 +1,840 @@
+{
+  "slug": "master-plan",
+  "title": "Master Plan | Figure",
+  "description": "Roadmap to a positive future powered by AI",
+  "isExtendedFooterEnabled": null,
+  "extendedFooterHeading": null,
+  "extendedFooterText": null,
+  "extendedFooterImage": null,
+  "extendedFooterCta": null,
+  "sections": [
+    {
+      "sys": {
+        "id": "3P7cUGv5m7JN0eqiWXtonS"
+      },
+      "__typename": "RichTextPageContent",
+      "id": "Master Plan",
+      "kicker": "Master Plan",
+      "description": "Background: I’m 20 years into building technology companies, previously the Founder of Archer ($2.7B IPO) and Vettery ($100M exit). My sole focus is Figure. My ambition is to build this company with a 30-year view, spending my time and resources on maximizing my utility impact to humanity.",
+      "date": "2022-05-20T00:00:00.000Z",
+      "richTextHeading": {
+        "json": {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "Roadmap to a positive future ",
+                  "nodeType": "text"
+                },
+                {
+                  "data": {},
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "value": "powered by AI",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            }
+          ],
+          "nodeType": "document"
+        },
+        "links": {
+          "entries": {
+            "inline": []
+          }
+        }
+      },
+      "sideNavigationLinksCollection": {
+        "items": [
+          {
+            "heading": "Our Mission",
+            "id": "our-mission"
+          },
+          {
+            "heading": "The Company",
+            "id": "the-company"
+          },
+          {
+            "heading": "The Present",
+            "id": "the-present"
+          },
+          {
+            "heading": "The Possibility",
+            "id": "the-possibility"
+          },
+          {
+            "heading": "The Solution",
+            "id": "the-solution"
+          },
+          {
+            "heading": "How We Can Do It",
+            "id": "how-we-can-do-it"
+          },
+          {
+            "heading": "Conclusion",
+            "id": "conclusion"
+          }
+        ]
+      },
+      "author": {
+        "fullName": "Brett Adcock",
+        "title": "Founder & CEO",
+        "signature": {
+          "contentType": "image/png",
+          "src": "https://images.ctfassets.net/qx5k8y1u9drj/6R2duzNEwr83kefvU7O96O/c2f3cd94cb01da47ba852378325ad72f/author-sig.png",
+          "width": 240,
+          "height": 53,
+          "description": "Signature"
+        },
+        "image": {
+          "contentType": "image/png",
+          "src": "https://images.ctfassets.net/qx5k8y1u9drj/1IoF22EjstGpW791ynMrkI/b62bcf99af4a2513ead48b0f1c3de486/author_image.png",
+          "width": 230,
+          "height": 230,
+          "description": "Brett"
+        }
+      },
+      "cta": {
+        "icon": null,
+        "label": "ABOUT US",
+        "url": null,
+        "fragmentAndQueryString": null,
+        "isTargetBlank": false,
+        "internalLink": {
+          "__typename": "Page",
+          "slug": "company"
+        }
+      },
+      "content": {
+        "json": {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "Our Mission",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "heading-2"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "Expand human capabilities through advanced AI.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "The Company",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "heading-2"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "I believe that positively affecting the future of humanity is the moral priority of our time. The most meaningful impact can come from dedicating our resources to developing technologies. In the coming age we will see great advancements in Artificial Intelligence (AI) and Robotics, and by contributing in the early stages, we can set the course for a positive AI future for humanity.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "Hence the goal of Figure: to develop general purpose humanoids that make a positive impact on humanity and create a better life for future generations. These robots can eliminate the need for unsafe and undesirable jobs — ultimately allowing us to live happier, more purposeful lives.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "Our company journey will take decades — and require a championship team dedicated to the mission, billions of dollars invested, and engineering innovation in order to achieve a mass-market impact. We face high risk and extremely low chances of success. However, if we are successful, we have the potential to positively impact humanity and to build the largest company on the planet.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "The Present",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "heading-2"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "Today, we are seeing unprecedented labor shortages. There are over 10 million unsafe or undesirable jobs in the U.S. alone, and an aging population will only make it increasingly difficult for companies to scale their workforces. As a result, the labor supply growth is set to flatline this century. If we want continued growth, we need more productivity — and this means more automation.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "The Possibility",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "heading-2"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "Thankfully, we are in the early stages of an AI and Robotics revolution. This presents the unique opportunity to substantially increase our production and standard of living.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "As automation continues to integrate with human life at scale, we can predict that the labor-based economy as we know it will transform. Robots that can think, learn, reason, and interact with their environments will eventually be capable of performing tasks better than humans. Today, manual labor compensation is the primary driver of goods and services prices, accounting for ~50% of global GDP (~$42 trillion/yr), but as these robots “join the workforce,” everywhere from factories to farmland, the cost of labor will decrease until it becomes equivalent to the price of renting a robot, facilitating a long-term, holistic reduction in costs. Over time, humans could leave the loop altogether as robots become capable of building other robots — driving prices down even more. This will change our productivity in exciting ways. Manual labor could become optional and higher production could bring an abundance of affordable goods and services, creating the potential for more wealth for everyone.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "We will have the chance to create a future with a significantly higher standard of living, where people can pursue the lives they want.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "We believe humanoids will revolutionize a variety of industries, from corporate labor roles (3+ billion humans), to assisting individuals in the home (2+ billion), to caring for the elderly (~1 billion), and to building new worlds on other planets. However, our first applications will be in industries such as manufacturing, shipping and logistics, warehousing, and retail, where labor shortages are the most severe. In early development, the tasks humanoids complete will be structured and repetitive, but over time, and with advancements in robot learning and software, humanoids will expand in capability and be able to tackle more complex job functions. We will not place humanoids in military or defense applications, nor any roles that require inflicting harm on humans. Our focus is on providing resources for jobs that humans don’t want to perform.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            },
+            {
+              "data": {
+                "target": {
+                  "sys": {
+                    "id": "75QrVzrZDe1WHdvU6ug1CG",
+                    "type": "Link",
+                    "linkType": "Entry"
+                  }
+                }
+              },
+              "content": [],
+              "nodeType": "embedded-entry-block"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "The Solution",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "heading-2"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "There are two schools of thought on how to solve real-world robotics: build an environment specifically for robots, or reverse it and build robots for our human environment. We could have either millions of different types of robots serving unique tasks or one humanoid robot with a general interface, serving millions of tasks. At Figure, we believe general purpose humanoid robots built for a human environment is the desired route to have the largest overall impact. For that reason, our humanoid robots resemble the human body in shape — two legs, two arms, hands, and screen for a face. With one product we can meet the complex human environment with human-like capabilities, and provide endless types of support across a variety of circumstances.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "How We Can Do It",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "heading-2"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "In 20 years of studying and building companies, I’ve never seen a potential market size similar to what general purpose humanoids can bring. Arriving there will require significant advancements in technology. Today, even everyday tasks, such as unloading the dishwasher, are still incredibly challenging for robots. We’re heads-down and focused on making substantive leaps in those areas of advancement. They include:",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ],
+                          "value": "System Hardware:",
+                          "nodeType": "text"
+                        },
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": " Our team is designing a fully electromechanical humanoid, including hands. The goal is to develop hardware with the physical capabilities of a non-expert human. We are measuring this in terms of range of motion, payload, torque, cost of transport and speed, and will continue to improve through rapid cycles of development, each cycle as part of a continuum.",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "paragraph"
+                    }
+                  ],
+                  "nodeType": "list-item"
+                },
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ],
+                          "value": "Unit Cost:",
+                          "nodeType": "text"
+                        },
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": " We’re aiming to reduce individual humanoid unit costs through high-rate volume manufacturing, working towards a sustainable economy of scale. We are measuring our costs through the fully burdened operating cost/hour. At high rates of volume manufacturing, I am optimistic unit cost will come down to affordable levels.",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "paragraph"
+                    }
+                  ],
+                  "nodeType": "list-item"
+                },
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ],
+                          "value": "Safety:",
+                          "nodeType": "text"
+                        },
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": " It’s essential that our humanoids will be able to interact with humans in the workplace safely. We will design them to be able to adhere to industry standards and corporate requirements.",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "paragraph"
+                    }
+                  ],
+                  "nodeType": "list-item"
+                },
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ],
+                          "value": "Volume Manufacturing:",
+                          "nodeType": "text"
+                        },
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": " We foresee not only needing to deliver a high quality product, but also needing to deliver it at an exceptionally high volume. We anticipate a steep learning curve as we exit prototyping and enter volume manufacturing. We are preparing for this by being thoughtful about design for manufacturing, system safety, reliability, quality, and other production planning.",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "paragraph"
+                    }
+                  ],
+                  "nodeType": "list-item"
+                },
+                {
+                  "data": {},
+                  "content": [
+                    {
+                      "data": {},
+                      "content": [
+                        {
+                          "data": {},
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ],
+                          "value": "Artificial Intelligence:",
+                          "nodeType": "text"
+                        },
+                        {
+                          "data": {},
+                          "marks": [],
+                          "value": " Building an AI system that enables our humanoids to perform everyday tasks autonomously is arguably one of the hardest problems we face long-term. We are tackling this by building intelligent embodied agents that can interact with complex and unstructured real-world environments.",
+                          "nodeType": "text"
+                        }
+                      ],
+                      "nodeType": "paragraph"
+                    }
+                  ],
+                  "nodeType": "list-item"
+                }
+              ],
+              "nodeType": "unordered-list"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "Conclusion",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "heading-2"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "In summary here is the first phase of our Master Plan:",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            },
+            {
+              "data": {
+                "target": {
+                  "sys": {
+                    "id": "3jphp4V0w5Nphm69FoNGOV",
+                    "type": "Link",
+                    "linkType": "Entry"
+                  }
+                }
+              },
+              "content": [],
+              "nodeType": "embedded-entry-block"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "We have the potential to alter the course of history and fundamentally improve millions of lives. ",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "It’s time to build.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            }
+          ],
+          "nodeType": "document"
+        },
+        "links": {
+          "entries": {
+            "hyperlink": [],
+            "inline": [],
+            "block": [
+              {
+                "sys": {
+                  "id": "75QrVzrZDe1WHdvU6ug1CG"
+                },
+                "__typename": "InlineStaticTimeline",
+                "data": {
+                  "heading": "We see three major business opportunities in the long term",
+                  "textLeft": "More Structured\nLess Variability",
+                  "textRight": "Less Structured\nMore Variability",
+                  "items": [
+                    {
+                      "heading": "Physical Labor",
+                      "highlights": [
+                        "50% of global GDP is human labor ($42T)"
+                      ]
+                    },
+                    {
+                      "heading": "Consumer Household",
+                      "highlights": [
+                        "2.3 billion households worldwide",
+                        "700M aging population in need of at-home care"
+                      ]
+                    },
+                    {
+                      "heading": "Off-World",
+                      "highlights": [
+                        "Space exploration to build new worlds"
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "sys": {
+                  "id": "3jphp4V0w5Nphm69FoNGOV"
+                },
+                "__typename": "InlineAccordion",
+                "kicker": null,
+                "itemsCollection": {
+                  "items": [
+                    {
+                      "heading": "Build a feature-complete electromechanical humanoid.",
+                      "description": null
+                    },
+                    {
+                      "heading": "Perform human-like manipulation.",
+                      "description": null
+                    },
+                    {
+                      "heading": "Integrate humanoids into the labor force.",
+                      "description": null
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "footer": {
+    "socialMediaTikTok": null,
+    "id": "footer",
+    "copyrightText": "© Figure 2026.",
+    "newsletterHeading": "Keep up with us",
+    "newsletterDescription": "Get news, photos, events, and business updates.",
+    "newsletterSuccessHeading": "Let's build.",
+    "newsletterSuccessDescription": "Thanks for signing up. Stay on the lookout for major robotics & AI announcements coming soon.",
+    "logo": {
+      "contentType": "image/svg+xml",
+      "src": "https://images.ctfassets.net/qx5k8y1u9drj/3ygvPaiOiIX62OhZ7oNO2h/d50ccd3bc449eab7ae098d87aa0cd040/figure-logo.svg",
+      "width": 461,
+      "height": 69,
+      "description": "Figure Logo"
+    },
+    "socialMediaTwitter": {
+      "internalLink": null,
+      "icon": null,
+      "label": "Twitter",
+      "url": "https://twitter.com/figure_robot",
+      "fragmentAndQueryString": null,
+      "isTargetBlank": true
+    },
+    "socialMediaInstagram": {
+      "internalLink": null,
+      "icon": null,
+      "label": "Instagram",
+      "url": "https://www.instagram.com/figure_robot/",
+      "fragmentAndQueryString": null,
+      "isTargetBlank": true
+    },
+    "socialMediaLinkedIn": {
+      "internalLink": null,
+      "icon": null,
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/company/figure-ai/",
+      "fragmentAndQueryString": null,
+      "isTargetBlank": true
+    },
+    "socialMediaYoutube": {
+      "internalLink": null,
+      "icon": null,
+      "label": "Youtube",
+      "url": "https://www.youtube.com/@figureai",
+      "fragmentAndQueryString": null,
+      "isTargetBlank": true
+    },
+    "linksCollection": {
+      "items": [
+        {
+          "icon": null,
+          "label": "FIGURE 03",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "figure"
+          }
+        },
+        {
+          "icon": null,
+          "label": "COMPANY",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "company"
+          }
+        },
+        {
+          "icon": null,
+          "label": "CAREERS",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "careers"
+          }
+        },
+        {
+          "icon": null,
+          "label": "HELIX",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "helix"
+          }
+        },
+        {
+          "icon": null,
+          "label": "NEWS",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "news"
+          }
+        },
+        {
+          "icon": null,
+          "label": "CULTURE",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "culture"
+          }
+        },
+        {
+          "icon": null,
+          "label": "MASTER PLAN",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "master-plan"
+          }
+        }
+      ]
+    },
+    "secondaryLinksCollection": {
+      "items": [
+        {
+          "icon": null,
+          "label": "Terms & Conditions",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "terms-and-conditions"
+          }
+        },
+        {
+          "icon": null,
+          "label": "Privacy Policy",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "privacy-policy"
+          }
+        },
+        {
+          "icon": null,
+          "label": "Accessibility Statement",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "accessibility-statement"
+          }
+        }
+      ]
+    }
+  },
+  "navigation": {
+    "linksCollection": {
+      "items": [
+        {
+          "icon": null,
+          "label": "FIGURE 03",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "figure"
+          }
+        },
+        {
+          "icon": null,
+          "label": "HELIX",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "helix"
+          }
+        },
+        {
+          "icon": null,
+          "label": "COMPANY",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "company"
+          }
+        },
+        {
+          "icon": null,
+          "label": "NEWS",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "news"
+          }
+        },
+        {
+          "icon": null,
+          "label": "CAREERS",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "careers"
+          }
+        }
+      ]
+    }
+  }
+}

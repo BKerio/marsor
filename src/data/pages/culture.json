@@ -1,0 +1,563 @@
+{
+  "slug": "culture",
+  "title": "Culture | Figure",
+  "description": "Figure was founded with the ambition to change the world.",
+  "isExtendedFooterEnabled": null,
+  "extendedFooterHeading": null,
+  "extendedFooterText": null,
+  "extendedFooterImage": null,
+  "extendedFooterCta": null,
+  "sections": [
+    {
+      "sys": {
+        "id": "4tcWqZMGwGZycMy7eIusuG"
+      },
+      "__typename": "RichTextPageContent",
+      "cta": null,
+      "id": "Figure was founded with the ambition to change the world.",
+      "kicker": "Culture at Figure",
+      "description": null,
+      "date": "2022-05-20T00:00:00.000Z",
+      "richTextHeading": {
+        "json": {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "Figure was founded with the ambition to change ",
+                  "nodeType": "text"
+                },
+                {
+                  "data": {},
+                  "marks": [
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "value": "the world.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            }
+          ],
+          "nodeType": "document"
+        },
+        "links": {
+          "entries": {
+            "inline": []
+          }
+        }
+      },
+      "sideNavigationLinksCollection": {
+        "items": [
+          {
+            "heading": "Origin",
+            "id": "origin"
+          },
+          {
+            "heading": "Mission",
+            "id": "mission"
+          },
+          {
+            "heading": "Vision",
+            "id": "vision"
+          },
+          {
+            "heading": "Values",
+            "id": "values"
+          },
+          {
+            "heading": "Conclusion",
+            "id": "conclusion"
+          }
+        ]
+      },
+      "author": {
+        "fullName": "Brett Adcock",
+        "title": "Founder & CEO",
+        "signature": {
+          "contentType": "image/png",
+          "src": "https://images.ctfassets.net/qx5k8y1u9drj/6R2duzNEwr83kefvU7O96O/c2f3cd94cb01da47ba852378325ad72f/author-sig.png",
+          "width": 240,
+          "height": 53,
+          "description": "Signature"
+        },
+        "image": {
+          "contentType": "image/png",
+          "src": "https://images.ctfassets.net/qx5k8y1u9drj/1IoF22EjstGpW791ynMrkI/b62bcf99af4a2513ead48b0f1c3de486/author_image.png",
+          "width": 230,
+          "height": 230,
+          "description": "Brett"
+        }
+      },
+      "content": {
+        "json": {
+          "nodeType": "document",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "heading-2",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Origin",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Through the intersection of AI and Robotics, we are building general purpose humanoid robots. These robots will eliminate the need for unsafe and undesirable jobs, allowing future generations to live happier, more purposeful lives.\n\nHowever, this is no easy feat — in the entirety of human history, we have not yet seen the successful commercialization of humanoid robots. The journey to build Figure at a global scale will take decades, but if successful, our team has the opportunity to make an unprecedented impact on humankind.\n\nHere, you will find Figure’s culture, as laid out in our Mission, Vision, and Values. The culture we build will make or break our future. The following values and beliefs define our identity as a company - how we work, make decisions, treat each other, and operate every day. We will hire, recognize, reward, and fire based on these cultural values. It’s important for me to disclose that our culture is not for everyone. If you believe in what you read below, then you are likely to thrive here. If you do not, Figure is not for you.",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "heading-2",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Mission",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "heading-3",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Figure's mission is to expand human capabilities through advanced AI.",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Figure is a mission-focused company. We aspire to create a better life for future generations and will dedicate our time and resources to this pursuit.",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "heading-2",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Vision",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "heading-3",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Figure’s vision is to deploy autonomous humanoid robots on a global scale to solve challenges within the labor economy.",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "We envision a future where humanoid robots are the universal interface in the physical world. In the early days, our humanoid will be deployed into the workforce to perform corporate tasks in areas with significant labor shortages and jobs that are undesirable or unsafe. Longer term, humanoids will play an important role in many areas such as assisting individuals in the home, caring for the elderly, and building new worlds on other planets.",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "heading-2",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Values",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "We are looking for the overachievers — the special few who want to put a dent in this world. We are not looking for candidates seeking to minimize their workload or maximize compensation. There are plenty of high paying, cushy jobs out there — that’s not what we stand for. Our culture is deliberately cultivated to amplify high performance and to push ourselves to operate at the best of our ability every day.",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "In parallel, we will constantly fight to prevent corporate bloat — if we become bureaucratic, morale will die and so will the business. In order to achieve our mission, it is critical to stay focused. The company will always act in the best interest of humanity, behave ethically, and treat others fairly. We will not support social activism, assume negative intent, treat others unfairly, or take on causes outside of our core mission. We are all here to do one job and that is to bring an impactful, useful product to market. ",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "embedded-entry-block",
+              "data": {
+                "target": {
+                  "sys": {
+                    "id": "5sn0WaUa3Zf9tFeXavTCUA",
+                    "type": "Link",
+                    "linkType": "Entry"
+                  }
+                }
+              },
+              "content": []
+            },
+            {
+              "nodeType": "heading-2",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Conclusion",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            },
+            {
+              "nodeType": "paragraph",
+              "data": {},
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "I am hopeful that this document will instill the importance of our culture to our current employees, as well as attract new team members with similar beliefs. Figure is a mission-focused company, and clarity around our culture will empower the team to make the highest-impact decisions for the benefit of our long-term success.\n\nIf you share our commitment to building a better future, please apply on our ",
+                  "marks": [],
+                  "data": {}
+                },
+                {
+                  "nodeType": "hyperlink",
+                  "data": {
+                    "uri": "https://www.figure.ai/careers"
+                  },
+                  "content": [
+                    {
+                      "nodeType": "text",
+                      "value": "careers page.",
+                      "marks": [],
+                      "data": {}
+                    }
+                  ]
+                },
+                {
+                  "nodeType": "text",
+                  "value": "\n\nWith a strong, undivided culture, there is a potential to change the world.",
+                  "marks": [],
+                  "data": {}
+                }
+              ]
+            }
+          ]
+        },
+        "links": {
+          "entries": {
+            "hyperlink": [],
+            "inline": [],
+            "block": [
+              {
+                "sys": {
+                  "id": "5sn0WaUa3Zf9tFeXavTCUA"
+                },
+                "__typename": "InlineAccordion",
+                "kicker": "Here are our 5 core values that we live by every day:",
+                "itemsCollection": {
+                  "items": [
+                    {
+                      "heading": "Move Fast & Be Technically Fearless",
+                      "description": "Hesitation is the enemy of momentum. We are tackling today's most complex technological challenges by testing, experimenting, and taking calculated risks to embrace the unknown without fear of failure. "
+                    },
+                    {
+                      "heading": "Product First, Mission Focused",
+                      "description": "Our product and our mission are one in the same: to bring a commercially viable humanoid to the market. We are builders, designers, and engineers united by a commitment to that mission, avoiding distraction and unrelated activities to remain laser-focused on shipping a safe, high quality product."
+                    },
+                    {
+                      "heading": "Aggressively Optimistic",
+                      "description": "Building Figure won’t be an easy win; it will require decades of commitment and ingenuity. We’re humbled by our mission, and aspire to remain optimistic even in the face of enormous hurdles."
+                    },
+                    {
+                      "heading": "Maximize Future Impact",
+                      "description": "We have what it takes to build the most groundbreaking company on the planet—to create an inspiring future for generations to come with safer, more efficient workplaces and homes that adapt to our needs. Our focus is on what we can achieve 5, 10, 20+ years from now, not the near-term wins."
+                    },
+                    {
+                      "heading": "Championship Mindset",
+                      "description": "To address the extraordinary demands of our work, we believe in operating as a winning team. We are in the trenches together, collaborating in-person, and pushing each other to the highest levels of performance."
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "footer": {
+    "socialMediaTikTok": null,
+    "id": "footer",
+    "copyrightText": "© Figure 2026.",
+    "newsletterHeading": "Keep up with us",
+    "newsletterDescription": "Get news, photos, events, and business updates.",
+    "newsletterSuccessHeading": "Let's build.",
+    "newsletterSuccessDescription": "Thanks for signing up. Stay on the lookout for major robotics & AI announcements coming soon.",
+    "logo": {
+      "contentType": "image/svg+xml",
+      "src": "https://images.ctfassets.net/qx5k8y1u9drj/3ygvPaiOiIX62OhZ7oNO2h/d50ccd3bc449eab7ae098d87aa0cd040/figure-logo.svg",
+      "width": 461,
+      "height": 69,
+      "description": "Figure Logo"
+    },
+    "socialMediaTwitter": {
+      "internalLink": null,
+      "icon": null,
+      "label": "Twitter",
+      "url": "https://twitter.com/figure_robot",
+      "fragmentAndQueryString": null,
+      "isTargetBlank": true
+    },
+    "socialMediaInstagram": {
+      "internalLink": null,
+      "icon": null,
+      "label": "Instagram",
+      "url": "https://www.instagram.com/figure_robot/",
+      "fragmentAndQueryString": null,
+      "isTargetBlank": true
+    },
+    "socialMediaLinkedIn": {
+      "internalLink": null,
+      "icon": null,
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/company/figure-ai/",
+      "fragmentAndQueryString": null,
+      "isTargetBlank": true
+    },
+    "socialMediaYoutube": {
+      "internalLink": null,
+      "icon": null,
+      "label": "Youtube",
+      "url": "https://www.youtube.com/@figureai",
+      "fragmentAndQueryString": null,
+      "isTargetBlank": true
+    },
+    "linksCollection": {
+      "items": [
+        {
+          "icon": null,
+          "label": "FIGURE 03",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "figure"
+          }
+        },
+        {
+          "icon": null,
+          "label": "COMPANY",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "company"
+          }
+        },
+        {
+          "icon": null,
+          "label": "CAREERS",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "careers"
+          }
+        },
+        {
+          "icon": null,
+          "label": "HELIX",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "helix"
+          }
+        },
+        {
+          "icon": null,
+          "label": "NEWS",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "news"
+          }
+        },
+        {
+          "icon": null,
+          "label": "CULTURE",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "culture"
+          }
+        },
+        {
+          "icon": null,
+          "label": "MASTER PLAN",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "master-plan"
+          }
+        }
+      ]
+    },
+    "secondaryLinksCollection": {
+      "items": [
+        {
+          "icon": null,
+          "label": "Terms & Conditions",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "terms-and-conditions"
+          }
+        },
+        {
+          "icon": null,
+          "label": "Privacy Policy",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "privacy-policy"
+          }
+        },
+        {
+          "icon": null,
+          "label": "Accessibility Statement",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "accessibility-statement"
+          }
+        }
+      ]
+    }
+  },
+  "navigation": {
+    "linksCollection": {
+      "items": [
+        {
+          "icon": null,
+          "label": "FIGURE 03",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "figure"
+          }
+        },
+        {
+          "icon": null,
+          "label": "HELIX",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "helix"
+          }
+        },
+        {
+          "icon": null,
+          "label": "COMPANY",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "company"
+          }
+        },
+        {
+          "icon": null,
+          "label": "NEWS",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "news"
+          }
+        },
+        {
+          "icon": null,
+          "label": "CAREERS",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "careers"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,450 @@
+{
+  "slug": "figure",
+  "title": "Figure 03 | Figure",
+  "description": "Figure is the first-of-its-kind AI robotics company bringing a general purpose humanoid to life.",
+  "isExtendedFooterEnabled": true,
+  "extendedFooterHeading": "The team bringing impossible ideas to life",
+  "extendedFooterText": "Figure has attracted the world’s leading robotics team with over 100 years of combined AI & humanoid experience.",
+  "extendedFooterImage": {
+    "contentType": "image/jpeg",
+    "src": "https://images.ctfassets.net/qx5k8y1u9drj/VVC0MrP2b4i0eC7jVaNyc/fb1b20a57c15495fc4ec0d37a7e8197c/extended-footer-background-v2.jpg",
+    "width": 2880,
+    "height": 4526,
+    "description": ""
+  },
+  "extendedFooterCta": {
+    "icon": null,
+    "label": "Careers",
+    "url": null,
+    "fragmentAndQueryString": null,
+    "isTargetBlank": false,
+    "internalLink": {
+      "__typename": "Page",
+      "slug": "careers"
+    }
+  },
+  "sections": [
+    {
+      "sys": {
+        "id": "3LMa7I94LUVvsHR83IlJ5R"
+      },
+      "__typename": "HumanFormModule",
+      "cta": null,
+      "id": "Figure 03",
+      "heading": "FIGURE 03",
+      "description": "Figure takes care of household tasks like laundry, cleaning, and doing dishes, all autonomously.",
+      "secondaryHeading": "Interact with Figure like you would with a human",
+      "secondaryText": "Talk, ask, or delegate—Figure understands and takes action.",
+      "isPopoverEnabled": false,
+      "popoverHeading": null,
+      "popoverOpenButtonCtaLabel": "Read More",
+      "popoverCloseButtonCtaLabel": "Close",
+      "imageDesktop": {
+        "contentType": "image/png",
+        "src": "https://images.ctfassets.net/qx5k8y1u9drj/6rREWE2DjWe7W3AFbZYSyH/21889f6a8f17464410b45c9ae12b718a/human-form-module-figure-3-image-v3.png",
+        "width": 2560,
+        "height": 4534,
+        "description": ""
+      },
+      "image": {
+        "contentType": "image/png",
+        "src": "https://images.ctfassets.net/qx5k8y1u9drj/3Cc9Kd1x25aka6drALqU6V/be9423fb4658c2b93c76b71587cd21ed/human-form-module-figure-3-image-mobile-v3.png",
+        "width": 1536,
+        "height": 5022,
+        "description": ""
+      },
+      "popoverRichText": {
+        "json": {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "We’ve designed our world for the human form. Hands allow us to open doors and use tools; arms and legs allow us to move efficiently, climb stairs, lift boxes, and more.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            }
+          ],
+          "nodeType": "document"
+        },
+        "links": {
+          "entries": {
+            "hyperlink": []
+          }
+        }
+      },
+      "itemsCollection": {
+        "items": [
+          {
+            "title": "Height",
+            "description": "5'8\""
+          },
+          {
+            "title": "Payload",
+            "description": "20KG"
+          },
+          {
+            "title": "Weight",
+            "description": "61KG"
+          },
+          {
+            "title": "Runtime",
+            "description": "5HR"
+          },
+          {
+            "title": "Speed",
+            "description": "1.2M/S"
+          },
+          {
+            "title": "System",
+            "description": "ELECTRIC"
+          }
+        ]
+      }
+    },
+    {
+      "sys": {
+        "id": "gEDMgByq2kfHjgyYx1X8g"
+      },
+      "__typename": "HeroV3",
+      "cta": null,
+      "image": null,
+      "mobileImage": null,
+      "mobileVideo": null,
+      "popoverRichText": null,
+      "secondSceneCta": null,
+      "secondSceneVideo": null,
+      "secondSceneMobileVideo": null,
+      "secondScenePopoverRichText": null,
+      "id": "Figure is always evolving",
+      "size": "cover",
+      "layout": "text aligned to right / cta aligned to right",
+      "mobileLayout": "text and cta aligned to bottom",
+      "textContentMaxWidth": 452,
+      "hasGradient": null,
+      "heading": "Figure is always evolving",
+      "text": "After meaningful progress in the workforce, Figure is now moving into the home, a more complex environment where Helix, our AI, enables it to learn and adapt to everyday life.",
+      "ctaIcon": "arrow",
+      "videoAspectRatio": "16/9",
+      "mobileVideoAspectRatio": "9/16",
+      "isPopoverEnabled": false,
+      "popoverHeading": null,
+      "popoverOpenButtonCtaLabel": "Read More",
+      "popoverCloseButtonCtaLabel": "Close",
+      "tag": null,
+      "isSecondSceneEnabled": false,
+      "firstSceneCtaLabel": "In Use",
+      "secondSceneCtaLabel": "Training",
+      "secondSceneHeading": "JEFF 2000 IS DOING PRETTY GOOD",
+      "secondSceneText": "Metal hands in sync,\ngears hum songs of tireless work —\ndawn breaks, still it moves.",
+      "secondSceneCtaIcon": "dot",
+      "isSecondScenePopoverEnabled": false,
+      "secondScenePopoverHeading": null,
+      "secondScenePopoverOpenButtonCtaLabel": "Read More",
+      "secondScenePopoverCloseButtonCtaLabel": "Close",
+      "video": {
+        "contentType": "video/mp4",
+        "src": "https://videos.ctfassets.net/qx5k8y1u9drj/7paGSRiSMhHqQVrBpeQ1Kg/c65b5fb1fdc7986d7e8d0061680ccea8/figure-03-01.mp4",
+        "width": null,
+        "height": null,
+        "description": "Video of the Figure 03 Robot in the house on the Figure 03 page"
+      },
+      "secondSceneImage": {
+        "contentType": "image/jpeg",
+        "src": "https://images.ctfassets.net/qx5k8y1u9drj/2qouCIcKmTzyS3v2HqyQB2/1dbed1bf7345042abc62823d9d890593/hero-figure-03-image-02.jpg",
+        "width": 2560,
+        "height": 1440,
+        "description": ""
+      },
+      "secondSceneMobileImage": {
+        "contentType": "image/jpeg",
+        "src": "https://images.ctfassets.net/qx5k8y1u9drj/4fLb9ZMYZ0M31bYQdJKoFs/fb716bf3c32ecaa6db1840d8c90536ac/hero-figure-03-image-02-mobile.jpg",
+        "width": 1536,
+        "height": 2733,
+        "description": ""
+      }
+    },
+    {
+      "sys": {
+        "id": "5wN2LVTpr4kSL9Vrm9FH3J"
+      },
+      "__typename": "HeroV3",
+      "cta": null,
+      "image": null,
+      "mobileImage": null,
+      "mobileVideo": null,
+      "popoverRichText": null,
+      "secondSceneCta": null,
+      "secondSceneImage": null,
+      "secondSceneMobileImage": null,
+      "secondSceneVideo": null,
+      "secondSceneMobileVideo": null,
+      "secondScenePopoverRichText": null,
+      "id": "Made to move through our world",
+      "size": "cover",
+      "layout": "text aligned to left / cta aligned to right",
+      "mobileLayout": "text and cta aligned to bottom",
+      "textContentMaxWidth": 452,
+      "hasGradient": true,
+      "heading": "Made to move through our world",
+      "text": "Engineered for real homes, Figure navigates stairs, tight corners, and shifting layouts with ease.",
+      "ctaIcon": "arrow",
+      "videoAspectRatio": "16/9",
+      "mobileVideoAspectRatio": "9/16",
+      "isPopoverEnabled": false,
+      "popoverHeading": null,
+      "popoverOpenButtonCtaLabel": "Read More",
+      "popoverCloseButtonCtaLabel": "Close",
+      "tag": null,
+      "isSecondSceneEnabled": false,
+      "firstSceneCtaLabel": null,
+      "secondSceneCtaLabel": null,
+      "secondSceneHeading": null,
+      "secondSceneText": null,
+      "secondSceneCtaIcon": "none",
+      "isSecondScenePopoverEnabled": false,
+      "secondScenePopoverHeading": null,
+      "secondScenePopoverOpenButtonCtaLabel": "Read More",
+      "secondScenePopoverCloseButtonCtaLabel": "Close",
+      "video": {
+        "contentType": "video/mp4",
+        "src": "https://videos.ctfassets.net/qx5k8y1u9drj/5nyViFLdvvnplWhJugzghF/4cac6bf291affc63a5621601d0e70fbc/figure-03-02.mp4",
+        "width": null,
+        "height": null,
+        "description": "Video of the Figure 03 robot in the studio for the Figure 03 page."
+      }
+    }
+  ],
+  "footer": {
+    "socialMediaTikTok": null,
+    "id": "footer",
+    "copyrightText": "© Figure 2026.",
+    "newsletterHeading": "Keep up with us",
+    "newsletterDescription": "Get news, photos, events, and business updates.",
+    "newsletterSuccessHeading": "Let's build.",
+    "newsletterSuccessDescription": "Thanks for signing up. Stay on the lookout for major robotics & AI announcements coming soon.",
+    "logo": {
+      "contentType": "image/svg+xml",
+      "src": "https://images.ctfassets.net/qx5k8y1u9drj/3ygvPaiOiIX62OhZ7oNO2h/d50ccd3bc449eab7ae098d87aa0cd040/figure-logo.svg",
+      "width": 461,
+      "height": 69,
+      "description": "Figure Logo"
+    },
+    "socialMediaTwitter": {
+      "internalLink": null,
+      "icon": null,
+      "label": "Twitter",
+      "url": "https://twitter.com/figure_robot",
+      "fragmentAndQueryString": null,
+      "isTargetBlank": true
+    },
+    "socialMediaInstagram": {
+      "internalLink": null,
+      "icon": null,
+      "label": "Instagram",
+      "url": "https://www.instagram.com/figure_robot/",
+      "fragmentAndQueryString": null,
+      "isTargetBlank": true
+    },
+    "socialMediaLinkedIn": {
+      "internalLink": null,
+      "icon": null,
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/company/figure-ai/",
+      "fragmentAndQueryString": null,
+      "isTargetBlank": true
+    },
+    "socialMediaYoutube": {
+      "internalLink": null,
+      "icon": null,
+      "label": "Youtube",
+      "url": "https://www.youtube.com/@figureai",
+      "fragmentAndQueryString": null,
+      "isTargetBlank": true
+    },
+    "linksCollection": {
+      "items": [
+        {
+          "icon": null,
+          "label": "FIGURE 03",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "figure"
+          }
+        },
+        {
+          "icon": null,
+          "label": "COMPANY",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "company"
+          }
+        },
+        {
+          "icon": null,
+          "label": "CAREERS",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "careers"
+          }
+        },
+        {
+          "icon": null,
+          "label": "HELIX",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "helix"
+          }
+        },
+        {
+          "icon": null,
+          "label": "NEWS",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "news"
+          }
+        },
+        {
+          "icon": null,
+          "label": "CULTURE",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "culture"
+          }
+        },
+        {
+          "icon": null,
+          "label": "MASTER PLAN",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "master-plan"
+          }
+        }
+      ]
+    },
+    "secondaryLinksCollection": {
+      "items": [
+        {
+          "icon": null,
+          "label": "Terms & Conditions",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "terms-and-conditions"
+          }
+        },
+        {
+          "icon": null,
+          "label": "Privacy Policy",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "privacy-policy"
+          }
+        },
+        {
+          "icon": null,
+          "label": "Accessibility Statement",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "accessibility-statement"
+          }
+        }
+      ]
+    }
+  },
+  "navigation": {
+    "linksCollection": {
+      "items": [
+        {
+          "icon": null,
+          "label": "FIGURE 03",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "figure"
+          }
+        },
+        {
+          "icon": null,
+          "label": "HELIX",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "helix"
+          }
+        },
+        {
+          "icon": null,
+          "label": "COMPANY",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "company"
+          }
+        },
+        {
+          "icon": null,
+          "label": "NEWS",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "news"
+          }
+        },
+        {
+          "icon": null,
+          "label": "CAREERS",
+          "url": null,
+          "fragmentAndQueryString": null,
+          "isTargetBlank": false,
+          "internalLink": {
+            "__typename": "Page",
+            "slug": "careers"
+          }
+        }
+      ]
+    }
+  }
+}
