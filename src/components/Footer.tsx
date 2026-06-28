@@ -201,7 +201,7 @@ export default function Footer({ showExtension = true, extension }: FooterProps)
 
             <div className="footer__bottom">
               <nav className="footer__secondary-links" aria-label="Legal Site links">
-                <p className="footer__copyright">© Figure 2026.</p>
+                <p className="footer__copyright">© Figure AI 2026.</p>
                 <Link className="footer__secondary-link" to="/terms-and-conditions">
                   Terms &amp; Conditions
                 </Link>
