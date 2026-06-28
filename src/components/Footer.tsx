@@ -1,12 +1,6 @@
 import { useState } from 'react'
 import { Link } from 'react-router-dom'
-import {
-  FOOTER_EXTENSION,
-  FOOTER_EXTENSION_BG,
-  FOOTER_LINKS,
-  FOOTER_LOGO,
-  type HeroSectionData,
-} from '../data/content'
+import { FOOTER_EXTENSION, FOOTER_EXTENSION_BG, FOOTER_LINKS, FOOTER_LOGO, type HeroSectionData } from '../data/content'
 import ContactModal from './ContactModal'
 import HeroV3 from './HeroV3'
 
